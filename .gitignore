@@ -1,0 +1,22 @@
+# Compiled Java outputs
+bin/
+*.class
+
+# Eclipse-specific workspace and user metadata
+.metadata/
+.settings/
+.recommenders/
+.loadpath
+.target
+*.launch
+
+# External tool builders logs
+.externalToolBuilders/
+
+# OS-specific temporary files
+Target/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
