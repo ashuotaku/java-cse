@@ -10,7 +10,7 @@ public class A1Q3 {
 		System.out.print("Name: "+name+
 				"\nBranch: "+branch+
 				"\nYear of Study: "+year+
-				"\nUniversity Roll No :"+roll);
+				"\nUniversity Roll No: "+roll);
 	}
 
 }
