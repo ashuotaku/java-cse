@@ -1,3 +1,6 @@
+/* Write a Java Program that reads the original price of a product and the discount percentage.
+   Calculate the discount amount and the final price. */
+
 import java.util.Scanner;
 
 public class A2Q2 {

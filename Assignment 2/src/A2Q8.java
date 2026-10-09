@@ -1,3 +1,6 @@
+/* Write a Java Program that asks the user to enter a number of minutes and displays the equivalent number of hours and remaining minutes.
+ * Hint: Use the / and % operators for integer division and remainder. */
+
 import java.util.Scanner;
 
 public class A2Q8 {

@@ -1,3 +1,5 @@
+/* Write a Java Program that displays the following table. Cast floating-point numbers into integers. */
+
 
 public class A2Q7 {
 

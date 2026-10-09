@@ -1,3 +1,6 @@
+/* Write a Java Program that prompts the user to enter the side of a hexagon and displays its area.
+ * Formula: Area of a hexagon is = 3√3 2 (side)2 */
+
 import java.util.Scanner;
 
 public class A2Q4 {

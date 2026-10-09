@@ -1,3 +1,6 @@
+/* Write a Java Program that prompts the user to enter two points (x1, y1) and (x2, y2) and displays their distance between them.
+ * Formula:  distance = √(𝒙𝟐 − 𝒙𝟏)𝟐 + (𝒚𝟐 − 𝒚𝟏)𝟐 Note: Use Math.sqrt(a) to compute √𝑎 */
+
 import java.util.Scanner;
 
 public class A2Q5 {
